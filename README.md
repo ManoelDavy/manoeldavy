@@ -21,16 +21,17 @@
 
 ###
 
-<h2 align="left">I code with</h2>
-
+## Projetos:
+- 🛰️ **[GeoSense](https://github.com/ManoelDavy/GeoSense)** — Grupo de Pesquisa em Sensoriamento Remoto Aplicado
 ###
 
-<br clear="both">
+<h2 align="left">Linguagens e Ferramentas:</h2>
 
+###
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" height="40" alt="opencv logo"  />
 </div>
 
 ###
@@ -40,8 +41,8 @@
 ###
 
 <div align="left">
-  <a href="davi.man534@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:davi.man534@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="80" height="40" alt="gmail logo"  />
   </a>
 </div>
 
